@@ -19,6 +19,10 @@ namespace testGitv1
                 Console.WriteLine(i);
             }
 
+            int a = 5, b = 10;
+
+            Console.WriteLine(a + b);
+
         }
     }
 }
